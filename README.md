@@ -1,0 +1,2 @@
+# QoTD-vault
+OBS 💜
