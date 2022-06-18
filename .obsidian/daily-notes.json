@@ -1,6 +1,6 @@
 {
   "folder": "Answers/",
   "format": "MMDD",
-  "autorun": true,
+  "autorun": false,
   "template": "zxc-meta/tmp/daily-note-template"
 }

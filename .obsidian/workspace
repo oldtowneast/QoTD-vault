@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0a0dc56d5e0ee1",
+        "id": "e0868d79ec1ca5d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Answers/0617.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0293d3720118904d",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answers/0617.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Answers/0617.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Answers/0617.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ef0a0dc56d5e0ee1",
+  "active": "f7cad917301abb8c",
   "lastOpenFiles": [
-    "Test.md",
-    "Questions/Daily.md",
+    "README.md",
     "zxc-meta/Under the Hood of QoTD Vault.md",
+    "WTFPL-LICENSE.md",
+    "QoTD.md",
+    "zxc-meta/Test.md",
+    "Answers/0617.md",
+    "Questions/Daily.md",
     "Rose Pine.md",
     "Questions/Deeper.md",
-    "QoTD.md",
-    "zxc-meta/tmp/daily-note-template.md",
-    "OTD/0616.md",
-    "OTD/0617.md",
-    "Deeper Daily Questions.md"
+    "zxc-meta/tmp/daily-note-template.md"
   ]
 }
